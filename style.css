@@ -176,6 +176,16 @@ padding:30px 30px;
   width: 165px;
   
 }
+/* footer */
+.footer p{
+  border-radius: 8px;
+    background: #FFF4E7;
+    padding: 20px 23px;
+    text-align: center;
+    font-size: 1.4rem;
+    margin:150px 220px  240px;
+  
+}
 
 
 /* responsive style */
